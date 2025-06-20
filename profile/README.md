@@ -28,4 +28,5 @@ website, after a situation has been handled.
 The Dining Hall Employee Website is a quick and easy way for dining hall employees to update menu items so students are aware of the food options available.
 
 ## About
-Dormly is created by Zack Dupree, Daniel Thornley, Duncan Carr, and Ryan Dodd at Bradley University.
+Dormly is created by Zack Dupree, Duncan Carr, and Ryan Dodd at Bradley University.
+More information can be found at dormlysoftware.com
